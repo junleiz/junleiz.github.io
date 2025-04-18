@@ -16,7 +16,7 @@ Most recent publications on [Google Scholar](https://scholar.google.com/citation
 
 
 ### 📚 Preprint
-#### Compression Represents Intelligence Linearly  
+## Compression Represents Intelligence Linearly  
  
 **Junlei Zhang\***, Zichen Ding\*, Chang Ma, Zijie Chen,  Qiushi Sun, Zhenzhong Lan, Junxian He†. **Submitted to COLM 2025**   
 [Paper](https://arxiv.org/abs/2504.10127)  | [Dataset](https://huggingface.co/datasets/hkust-nlp/GUIMid/)
@@ -29,7 +29,7 @@ Most recent publications on [Google Scholar](https://scholar.google.com/citation
 
 ---
 
-#### AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents 
+### AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents 
 Ma Chang\*, **Junlei Zhang\***, Zhihao Zhu\*, Cheng Yang\*, Yujiu Yang, Yaohui Jin, Zhenzhong Lan, Lingpeng Kong, Junxian He†. **NeurIPS 2024 Oral**  
 [Paper](https://arxiv.org/abs/2401.13178) | [Dataset](https://huggingface.co/datasets/hkust-nlp/agentboard) | [Code](https://github.com/hkust-nlp/AgentBoard)  
 
@@ -37,7 +37,7 @@ Ma Chang\*, **Junlei Zhang\***, Zhihao Zhu\*, Cheng Yang\*, Yujiu Yang, Yaohui J
 
 ---
 
-#### Non-myopic Generation of Language Models for Reasoning and Planning
+### Non-myopic Generation of Language Models for Reasoning and Planning
 
 Chang Ma, Haiteng Zhao, **Junlei Zhang**, Junxian He†, Lingpeng Kong†.  **ICLR 2025**
 [Paper](https://arxiv.org/pdf/2410.17195) | [Code](https://github.com/chang-github-00/llm-predictive-decoding)  
@@ -45,28 +45,28 @@ Chang Ma, Haiteng Zhao, **Junlei Zhang**, Junxian He†, Lingpeng Kong†.  **IC
 
 ---
 
-#### Instance smoothed contrastive learning for unsupervised sentence embedding
+### Instance smoothed contrastive learning for unsupervised sentence embedding
 
 Hongliang He\*, **Junlei Zhang\***, Zhenzhong Lan†, Yue Zhang†. **AAAI 2023, Project leader**  
 [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/26512) | [Code](https://github.com/dll-wu/IS-CSE)  
 
 ---
 
-#### Contrastive learning of sentence embeddings from scratch
+### Contrastive learning of sentence embeddings from scratch
 
 **Junlei Zhang**, Zhenzhong Lan, Junxian He†. **EMNLP 2023**  
 [Paper](https://arxiv.org/abs/2305.15077) | [Code](https://github.com/hkust-nlp/SynCSE)  
 
 ---
 
-#### C‑Eval: A Multi‑Level Multi‑Discipline Chinese Evaluation Suite for Foundation Models  
+### C‑Eval: A Multi‑Level Multi‑Discipline Chinese Evaluation Suite for Foundation Models  
   
 Yuzhen Huang\*, Yuzhuo Bai\*, Zhihao Zhu, **Junlei Zhang**, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He†. **NeurIPS 2023**  
 [Paper](https://arxiv.org/abs/2305.08322) | [Website](https://cevalbenchmark.com) | [Dataset](https://huggingface.co/datasets/ceval/ceval-exam) | [Code](https://github.com/hkust-nlp/ceval)  
 
 ---
 
-#### Residual Distillation: Towards Portable Deep Neural Networks without Shortcuts
+### Residual Distillation: Towards Portable Deep Neural Networks without Shortcuts
 
 
 Guilin Li\*, **Junlei Zhang\***, Yunhe Wang, Chuanjian Liu, Matthias Tan, Yunfeng Lin, Wei Zhang, Jiashi Feng, Tong Zhang **NeurIPS 2020**    
