@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+# title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
   - /about/
@@ -19,7 +19,101 @@ Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you se
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-Getting started
+
+### 📚 Preprint
+#### Compression Represents Intelligence Linearly  
+ 
+**Junlei Zhang\***, Zichen Ding\*, Chang Ma, Zijie Chen,  Qiushi Sun, Zhenzhong Lan, Junxian He†. **Submitted to COLM 2025**   
+[Paper](https://arxiv.org/abs/2504.10127)  | [Dataset](https://huggingface.co/datasets/hkust-nlp/GUIMid/)
+
+<!-- > **Abstract:** In this paper, we study the relationship between compression rate and intelligence of LLMs. -->
+
+### 📚 Publications
+
+\* denotes co‑first authors
+
+---
+
+#### AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents 
+Ma Chang\*, **Junlei Zhang\***, Zhihao Zhu\*, Cheng Yang\*, Yujiu Yang, Yaohui Jin, Zhenzhong Lan, Lingpeng Kong, Junxian He†. **NeurIPS 2024 Oral**  
+[Paper](https://arxiv.org/abs/2401.13178) | [Dataset](https://huggingface.co/datasets/hkust-nlp/agentboard) | [Code](https://github.com/hkust-nlp/AgentBoard)  
+
+<!-- > **Abstract:** In this paper, we study the relationship between compression rate and intelligence of LLMs. -->
+
+---
+
+#### Non-myopic Generation of Language Models for Reasoning and Planning
+
+Chang Ma, Haiteng Zhao, **Junlei Zhang**, Junxian He†, Lingpeng Kong†.  **ICLR 2025**
+[Paper](https://arxiv.org/pdf/2410.17195) | [Code](https://github.com/chang-github-00/llm-predictive-decoding)  
+
+
+---
+
+#### Instance smoothed contrastive learning for unsupervised sentence embedding
+
+Hongliang He\*, **Junlei Zhang\***, Zhenzhong Lan†, Yue Zhang†. **AAAI 2023, Project leader**  
+[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/26512) | [Code](https://github.com/dll-wu/IS-CSE)  
+
+---
+
+#### Contrastive learning of sentence embeddings from scratch
+
+**Junlei Zhang**, Zhenzhong Lan, Junxian He†. **EMNLP 2023**  
+[Paper](https://arxiv.org/abs/2305.15077) | [Code](https://github.com/hkust-nlp/SynCSE)  
+
+---
+
+#### C‑Eval: A Multi‑Level Multi‑Discipline Chinese Evaluation Suite for Foundation Models  
+  
+Yuzhen Huang\*, Yuzhuo Bai\*, Zhihao Zhu, **Junlei Zhang**, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He†. **NeurIPS 2023**  
+[Paper](https://arxiv.org/abs/2305.08322) | [Website](https://cevalbenchmark.com) | [Dataset](https://huggingface.co/datasets/ceval/ceval-exam) | [Code](https://github.com/hkust-nlp/ceval)  
+
+---
+
+#### Residual Distillation: Towards Portable Deep Neural Networks without Shortcuts
+
+
+Guilin Li\*, **Junlei Zhang\***, Yunhe Wang, Chuanjian Liu, Matthias Tan, Yunfeng Lin, Wei Zhang, Jiashi Feng, Tong Zhang **NeurIPS 2020**    
+[Paper](https://proceedings.neurips.cc/paper/2020/hash/657b96f0592803e25a4f07166fff289a-Abstract.html) | [Code](https://github.com/leoozy/JointRD_Neurips2020)  
+
+---
+
+<!-- **Composing Parameter-Efficient Modules with Arithmetic Operations**  
+*<ins>Jinghan Zhang</ins>*, Shiqi Chen, Junteng Liu, Junxian He$^\dagger$  
+NeurIPS 2023. [[arxiv]](https://arxiv.org/abs/2306.14870) [[github]](https://github.com/hkust-nlp/PEM_composition)
+
+**C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models**  
+Yuzhen Huang\*, Yuzhuo Bai\*, Zhihao Zhu, Junlei Zhang, *<ins>Jinghan Zhang</ins>*, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He$^\dagger$  
+NeurIPS 2023 (Datasets and Benchmarks track). [[arxiv]](https://arxiv.org/abs/2305.08322) [[github]](https://github.com/hkust-nlp/ceval) [[website]](https://cevalbenchmark.com) [[dataset]](https://huggingface.co/datasets/ceval/ceval-exam)
+
+**FELM: Benchmarking Factuality Evaluation of Large Language Models**  
+Shiqi Chen, Yiran Zhao, *<ins>Jinghan Zhang</ins>*, I-Chun Chern, Siyang Gao, Pengfei Liu, Junxian He$^\dagger$  
+NeurIPS 2023 (Datasets and Benchmarks track). [[arxiv]](https://arxiv.org/abs/2310.00741) [[github]](https://github.com/hkust-nlp/felm) [[website]](https://hkust-nlp.github.io/felm/) [[dataset]](https://huggingface.co/datasets/hkust-nlp/felm)
+-->
+
+## 🌟 Internship
+- *2019.09 - 2020.09 Huawei Noah's Ark Lab, Hong Kong, China.
+## 🎖 Awards 
+- *2014.7* National Scholarship 
+
+
+## 📖 Education
+- *2020.09 - now* PhD Candidate, [Zhejiang University](https://www.zju.edu.cn/), Hangzhou, China.
+ - *2020.09 - now* PhD Candidate, [Westlake University](https://www.westlake.edu.cn/), Hangzhou, China.
+- *2017.09 - 2019.07* Master, Computer Technology, [Harbin Institute of Technology](https://www.hit.edu.cn/), Harbin, China.
+- *2013.09 - 2017.06* Undergraduate, Electrical Engineering and Automation, [Southwest jiaotong University](https://www.swjtu.edu.cn/), Chengdu, China.
+
+<!--## 🧑🏻‍💻 Contact
+Happy to chat about any topics :)
+-->
+
+<!-- Calendly badge widget begin -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/zhangcharlotte84/15min', text: 'Happy to chat about any topics :)', color: '#2162da', textColor: '#ffffff', branding: undefined }); }</script>
+<!-- Calendly badge widget end -->
+<!-- Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
@@ -50,4 +144,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
